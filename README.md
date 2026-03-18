@@ -1,8 +1,7 @@
 ![snake gif](https://github.com/OhMyMrAIRobot/OhMyMrAIRobot/blob/output/github-snake.svg)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=OhMyMrAIRobot&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=OhMyMrAIRobot&theme=default&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=OhMyMrAIRobot&theme=default&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=OhMyMrAIRobot&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 # 💻 Tech Stack:
