@@ -90,10 +90,10 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/ohmymrairobot/ohmymrairobot/activity-graph-output/activity-graph.svg?radius=16&theme=redical&area=true&order=5&hide_border=true&hide_title=true&point=0000">
+          srcset="https://raw.githubusercontent.com/ohmymrairobot/ohmymrairobot/activity-graph-output/activity-graph-dark.svg?radius=16&theme=redical&area=true&order=5&hide_border=true&hide_title=true&point=0000">
   <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/ohmymrairobot/ohmymrairobot/activity-graph-output/activity-graph.svg?radius=16&theme=github-light&area=true&order=5&hide_border=true&hide_title=true&point=0000">
-  <img src="https://raw.githubusercontent.com/ohmymrairobot/ohmymrairobot/activity-graph-output/activity-graph.svg?radius=16&theme=redical&area=true&order=5&hide_border=true&hide_title=true&point=0000"
+          srcset="https://raw.githubusercontent.com/ohmymrairobot/ohmymrairobot/activity-graph-output/activity-graph-light.svg?radius=16&theme=github-light&area=true&order=5&hide_border=true&hide_title=true&point=0000">
+  <img src="https://raw.githubusercontent.com/ohmymrairobot/ohmymrairobot/activity-graph-output/activity-graph-dark.svg?radius=16&theme=redical&area=true&order=5&hide_border=true&hide_title=true&point=0000"
        height="250" alt="activity-graph graph" />
 </picture>
 </div>
