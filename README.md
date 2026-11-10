@@ -8,13 +8,10 @@
 ###
 
 <div data-importer="socials" align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="linkedin logo"  />
-  <img width="3" />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="40" height="40" alt="telegram logo"  />
-  <img width="3" />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="40" alt="discord logo"  />
-  <img width="3" />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="40" alt="gmail logo"  />
+  <a href="https://" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=1111111&style=plastic" height="20" alt="linkedin logo" /></a>
+  <a href="https://t.me/danyawkwk" target="_blank"><img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=0000000&style=plastic" height="20" alt="telegram logo" /></a>
+  <a href="https://discord.com/users/398102246258376704" target="_blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=plastic" height="20" alt="discord logo" /></a>
+  <a href="mailto:d.khlyshchankou@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="20" alt="gmail logo" /></a>
 </div>
 
 ###
