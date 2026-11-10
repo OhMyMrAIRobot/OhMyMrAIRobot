@@ -1,5 +1,5 @@
 
-<h1 data-importer="text" align="center">🐉 Daniil Khlyshchankou</h1>
+<h1 data-importer="text" align="center">🐉 Daniil Khlyshchankou / Full Stack Engineer</h1>
 
 ###
 
